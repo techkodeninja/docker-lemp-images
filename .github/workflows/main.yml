@@ -39,7 +39,7 @@ jobs:
           tags: |
             ${{ secrets.DOCKER_USERNAME }}/lemp-php8.1
 
-  php81:
+  php82:
     runs-on: ubuntu-latest
     steps:
       - name: Step One - Checkout Repository
