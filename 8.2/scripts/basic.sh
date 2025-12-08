@@ -5,6 +5,7 @@ apt-get install --no-install-recommends \
     git \
     mariadb-client \
     nginx \
+    nodejs \
     php-imagick \
     php-memcache \
     php-memcached \
